@@ -1,5 +1,5 @@
 
-# cai mini proof (~2 min)
+# Compression-Aware Intelligence Mini Proof (~2 min)
 
 what it shows:
 - more compression -> higher recon loss -> lower clf accuracy.
